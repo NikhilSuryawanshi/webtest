@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body bgcolor="green">
 
 <h1>My first PHP page</h1>
 
 <?php
-echol "Hello World!";
+echo "Hello World!";
 ?>
 
 </body>
