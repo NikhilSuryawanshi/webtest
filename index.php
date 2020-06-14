@@ -2,11 +2,15 @@
 <html>
 <body bgcolor="cyan">
 
-<h1>My first PHP page</h1>
+<h1>Welcome to nik clouds</h1>
 
+<pre>
 <?php
-echo "Hello World!";
+
+print `ifconfig`;
+
 ?>
+</pre>
 
 </body>
 </html> 
