@@ -10,7 +10,6 @@
 <pre>
 <?php
 
-print `ifconfig enp0s3`;
 $file = file_get_contents('url.txt');
 
 echo '<img src="'.$file.'"  width="500" height="600">';
