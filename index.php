@@ -3,7 +3,7 @@
   <head>
     <title>Welcome to the Cloud </title>
   </head>
-<body bgcolor="gray">
+<body>
 
 <h1>"Things do not happen. Things are made to happen !" </h1>
 
